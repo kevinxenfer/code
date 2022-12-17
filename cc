@@ -1,6 +1,6 @@
 {
     "returnCode": 2,
-    "message": "Move App successfully..",
+    "message": "Move",
     "data": {
         "mNLKeAppVersion": 1,
         "mNLKeAppTitle": "Mobile Number Locator",
